@@ -1,6 +1,7 @@
 {
   "name": "dashboard2",
   "version": "0.1.0",
+  "homepage": "https://Jafarxon.github.io",
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
